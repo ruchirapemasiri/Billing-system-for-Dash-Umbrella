@@ -1,0 +1,9 @@
+WORKER NAME            ::dusha
+
+WORKER ID            ::rnc1234
+
+MONTH                ::march
+
+profit precentage is:::54.2857%
+reject precentage is   ::10%
+PREFORMANCE EVALUATION STATUS = !!! GOOD!!!

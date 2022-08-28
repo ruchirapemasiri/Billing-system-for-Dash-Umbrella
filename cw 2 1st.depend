@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1613663104 source:d:\nibm dse 20.1\c++  mr tharanga\cw 2\cw 2 1st\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1613663104 source:c:\users\user-pc\desktop\dash\kadse 20.1-026 oop(group 8)\cw 2 1st\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1613663104 source:d:\nibm dse 20.1\c++  mr tharanga\dash\kadse 20.1-026 oop(group 8)\cw 2 1st\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+

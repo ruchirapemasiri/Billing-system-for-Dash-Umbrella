@@ -1,0 +1,7 @@
+WORKER NAME            ::TH
+WORKER ID              ::56
+MONTH                  ::MARCH
+profit precentage is   ::66.6667%
+reject precentage is   ::0%
+PREFORMANCE EVALUATION STATUS = !!! GOOD!!!
+BONUS AMOUNT FOR THIS CLUSTER_HEAD OUTSIDE WORKER RS :50

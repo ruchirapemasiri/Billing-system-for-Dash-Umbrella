@@ -1,0 +1,7 @@
+WORKER NAME            ::lu1313
+WORKER ID              ::5
+MONTH                  ::t
+reject precentage is   ::60%
+total lost amount of working capital from this out sider RS: 60000
+             !!!!!! WARNING !!!!!!!!
+THERE ARE NO PROFITS BECASUE DAMAGE PRECENTAGE IS ABOVE 50%
